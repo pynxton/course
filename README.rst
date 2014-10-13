@@ -6,7 +6,7 @@ Coming soon
 
 
 
-Booked room for the course on Thursday 4-5 pm
+Booked room for the course on **Thursday 4-5 pm** mostly in the Meadow room (EBI south building)
 
 
 ========== ============ ====================================================================================
