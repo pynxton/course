@@ -12,8 +12,8 @@ Booked room for the course on Thursday 4-5 pm
 ========== ============ ====================================================================================
  date         where         
 ========== ============ ====================================================================================
- 16 Oct     Meadow        `beginners1 <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
- 23 Oct     Meadow        `beginners2 <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
+ 16 Oct     Meadow        `1.basics <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
+ 23 Oct     Meadow        `2.programming <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
  30 Oct     Meadow            
  6  Nov     Meadow            
  13 Nov     Meadow            
