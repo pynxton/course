@@ -1,6 +1,7 @@
 Python course
 ===============
 
+See notebooks in [nbviewer](http://nbviewer.ipython.org/github/pynxton/course/tree/master/)
 
 Booked room for the course on **Thursday 4-5 pm** mostly in the Meadow room (EBI south building)
 
