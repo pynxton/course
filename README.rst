@@ -12,11 +12,10 @@ Booked room for the course on **Thursday 4-5 pm** mostly in the Meadow room (EBI
  16 Oct     Meadow        `1.basics <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
  23 Oct     Meadow        `1.basics <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
  30 Oct     Meadow        `2.programming <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_
- 6  Nov     Meadow            
- 13 Nov     Meadow            
- 20 Nov     Ickleton          
- 27 Nov     Meadow            
- 4 Dec      Ickleton          
- 18 Dec     Meadow            
+ 6  Nov     Meadow        `2.programming <http://nbviewer.ipython.org/github/pynxton/course/tree/master/>`_  
+ 13 Nov     Meadow        Matplotlib 
+ 20 Nov     Ickleton      classes/OOP in Python
+ 27 Nov     Meadow        numpy/scipy
+ 4 Dec      Ickleton      Pandas
 ========== ============ ====================================================================================
 
