@@ -16,6 +16,6 @@ Booked room for the course on **Thursday 4-5 pm** mostly in the Meadow room (EBI
  13 Nov     Ickleton      `3.Matplotlib <http://nbviewer.ipython.org/github/pynxton/course/blob/master/3.%20Matplotlib.ipynb>`_
  20 Nov     Ickleton      `4.Object Oriented in Python <http://nbviewer.ipython.org/github/pynxton/course/blob/master/4.%20Class%20and%20objects.ipynb>`_
  27 Nov     Meadow        `5.numpy/scipy/pandas overview`
- 4 Dec      Ickleton      `6.Packaging https://github.com/cokelaer/python_notes/blob/master/source/packaging.rst`
+ 4 Dec      Ickleton      `6.Packaging <https://github.com/cokelaer/python_notes/blob/master/source/packaging.rst>`_
 ========== ============ ====================================================================================
 
